@@ -1,0 +1,11 @@
+python 3.6
+PIL
+numpy
+matplotlib
+numpy
+pygame
+opencv-python
+torch
+tensorboardX
+
+
