@@ -65,9 +65,9 @@ By running ```game.py``` in
 *  ```ReinforcementLearning``` folder: Tetris will be played by the AI agent which is developed using reinforcement learning
 
 * ```requirement.txt``` folder:
-'''bash
+```bash
 $ pip install -r requirement.txt
-'''
+```
  
 
 
