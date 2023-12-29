@@ -47,8 +47,9 @@ During training ( running ```train.py``` ), ```tensorboard``` is automatically c
 * pytorch
 * numpy
 * matplotlib
+* pygame
 
-**Install the Pygame and OpenCV**: In your terminal, run the following command to downloaded the required libraries:
+**Install external libraries**: In your terminal, run the following command to downloaded the required libraries:
 ```
 pip install numpy
 pip install pygame
